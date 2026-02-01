@@ -1,0 +1,32 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sweat\\source\\repos\\CshapCourseWork\\",
+  "Documents": [],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "eb71e805-a1b2-402e-b92c-2225a3d64f14",
+        "Display": 0,
+        "X": -4,
+        "Y": 60,
+        "Width": 1023,
+        "Height": 584,
+        "WindowState": 0
+      },
+      "DocumentGroups": []
+    }
+  ]
+}
